@@ -1,0 +1,13 @@
+[project]
+name = "04-ao-oam"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "aotools>=1.0.7",
+    "colorcet>=3.1.0",
+    "ipykernel>=7.1.0",
+    "lightpipes>=2.1.5",
+    "tqdm>=4.67.2",
+]
