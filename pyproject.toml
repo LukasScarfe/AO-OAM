@@ -8,7 +8,9 @@ dependencies = [
     "aotools>=1.0.7",
     "colorcet>=3.1.0",
     "ipykernel>=7.1.0",
-    "ipywidgets",
+    "ipywidgets>=8.1.8",
     "lightpipes>=2.1.5",
+    "numpy>=2.3.5",
+    "pyqt5>=5.15.11",
     "tqdm>=4.67.2",
 ]
