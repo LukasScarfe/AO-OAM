@@ -13,7 +13,7 @@ import os
 # --- 1. LIGHTPIPES & DM CONFIGURATION ---
 wavelength = 0.633 * um
 size = 28.0 * mm
-N = 180              
+N = 200
 pitch_val = 2.5 * mm 
 coupling = 0.45      
 pupil_diam = 22.5 * mm
